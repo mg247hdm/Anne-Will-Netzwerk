@@ -1,4 +1,4 @@
-id,name,partei,branche,land,type
+id,beteiligter,partei,branche,land,type
 uvdl,Ursula von der leyen,cdu,1,belgien,1
 lk,Lars Klingbeil,spd,1,deutschland,1
 nr,Norbert Röttgen,cdu,1,deutschland,1
