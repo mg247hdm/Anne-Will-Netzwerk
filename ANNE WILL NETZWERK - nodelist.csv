@@ -1,0 +1,36 @@
+id,name,partei,branche,land,type
+uvdl,Ursula von der leyen,cdu,1,belgien,1
+lk,Lars Klingbeil,spd,1,deutschland,1
+nr,Norbert Röttgen,cdu,1,deutschland,1
+sw,Sahra Wagenknecht,Linke,1,deutschland,1
+cs,Constanze Stelzenmüller,NA,2,deutschland,1
+cli,Christian Lindner,fdp,1,deutschland,1
+ks,Karl Schlögel,NA,3,deutschland,1
+lm,Ljudmyla Melnyk,NA,3,ukraine,1
+kd,Kristina Dunz,NA,2,deutschland,1
+el,Egils Levits,NA,1,Lettland,1
+ab,Annalena Baerbock,Grünen,1,deutschland,1
+ft,Frans Timmermanns,NA,1,niederlande,1
+am,Andrij Melnyk,NA,1,ukraine,1
+agl,Alexander Graf Lambsdorff,fdp,1,deutschland,1
+er,Egon Ramms,NA,5,deutschland,1
+rh,Robert Habeck,Grünen,1,deutschland,1
+cm,Claudia Major,NA,3,deutschland,1
+kp,Katja Petrowskaja,NA,2,ukraine,1
+rk,Roderich Kiesewetter,cdu,1,deutschland,1
+cla,Christine Lambrecht,spd,1,deutschland,1
+sb,Stefanie Babst,NA,2,deutschland,1
+ch,Christoph Heusgen,NA,1,deutschland,1
+mw,Marina Weisband,NA,2,ukraine,1
+os,Olaf Scholz,spd,1,deutschland,1
+fh,Folge Fünfhundert,NA,NA,NA,3
+fhe,Folge Fünfhunderteins,NA,NA,NA,3
+fhz,Folge Fünfhundertzwei,NA,NA,NA,3
+fhd,Folge Fünfhundertdrei,NA,NA,NA,3
+fhv,Folge Fünfhundertvier,NA,NA,NA,3
+fhf,Folge Fünfhundertfünf,NA,NA,NA,3
+cdu,CDU,NA,NA,deutschland,2
+spd,SPD,NA,NA,deutschland,2
+linke,LINKE,NA,NA,deutschland,2
+fdp,FDP,NA,NA,deutschland,2
+gruen,GRÜNE,NA,NA,deutschland,2
